@@ -3,6 +3,15 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Personal Files
+C1_Certificate.pdf
+C2_Certificate.pdf
+C3_Certificate.pdf
+C4_Certificate.pdf
+C5_Certificate.pdf
+
+# Large Files
+
 # C extensions
 *.so
 
